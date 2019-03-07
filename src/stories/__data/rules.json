@@ -1,0 +1,128 @@
+[
+  {
+    "id": "a0d8017b-01c4-473c-87ec-f30a2c2704ba",
+    "created": "2019-03-07T10:04:17.491Z",
+    "creatorAccountId": "ffa98368-8368-4162-8e6e-e260e89b36de",
+    "name": "1959061",
+    "description": "",
+    "supplierTypes": [
+      "FNX",
+      "MIGDAL"
+    ],
+    "agencyIds": [
+      "3aa2de38-516a-42eb-aaa2-f7d4408a1fdc"
+    ],
+    "ruleApplication": "Mandatory",
+    "ruleType": "Discount",
+    "ability": "ENABLED",
+    "order": 0,
+    "compareWithSecondary": true,
+    "expireAt": "2019-03-31T22:00:00Z",
+    "template": false
+  },
+  {
+    "id": "j4k4k-245k-234234ff-ljasd-87ddasdf",
+    "created": "2019-03-07T10:04:17.491Z",
+    "creatorAccountId": "ffa98368-8368-4162-8e6e-e260e89b36de",
+    "name": "645476",
+    "description": "",
+    "supplierTypes": [
+      "MIGDAL_TOP",
+      "MIGDAL"
+    ],
+    "agencyIds": [
+      "c2d23d5e-744b-497d-9a0b-bb00b072b5a6"
+    ],
+    "ruleApplication": "Mandatory",
+    "ruleType": "Discount",
+    "ability": "ENABLED",
+    "order": 0,
+    "compareWithSecondary": true,
+    "expireAt": "2019-03-31T22:00:00Z",
+    "template": false
+  },
+  {
+    "id": "5e3cb714-4784-47e8-9b8a-89de1611991f",
+    "created": "2019-03-07T10:04:17.491Z",
+    "creatorAccountId": "ffa98368-8368-4162-8e6e-e260e89b36de",
+    "name": "5674532",
+    "description": "",
+    "supplierTypes": [
+      "MIGDAL_TOP",
+      "FNX"
+    ],
+    "agencyIds": [
+      "3aa2de38-516a-42eb-aaa2-f7d4408a1fdc"
+    ],
+    "ruleApplication": "Mandatory",
+    "ruleType": "Discount",
+    "ability": "ENABLED",
+    "order": 0,
+    "compareWithSecondary": true,
+    "expireAt": "2019-03-31T22:00:00Z",
+    "template": false
+  },
+  {
+    "id": "94b14f90-81c4-4c0c-b1e0-333a722ed51d",
+    "created": "2019-03-07T10:04:17.491Z",
+    "creatorAccountId": "ffa98368-8368-4162-8e6e-e260e89b36de",
+    "name": "0843455",
+    "description": "",
+    "supplierTypes": [
+      "MIGDAL_TOP",
+      "HCSRA"
+    ],
+    "agencyIds": [
+      "3aa2de38-516a-42eb-aaa2-f7d4408a1fdc"
+    ],
+    "ruleApplication": "Mandatory",
+    "ruleType": "Discount",
+    "ability": "ENABLED",
+    "order": 0,
+    "compareWithSecondary": true,
+    "expireAt": "2019-03-31T22:00:00Z",
+    "template": false
+  },
+  {
+    "id": "18baa6a8-7c98-459d-a5c4-cc515aab3c7f",
+    "created": "2019-03-07T10:04:17.491Z",
+    "creatorAccountId": "ffa98368-8368-4162-8e6e-e260e89b36de",
+    "name": "956354",
+    "description": "",
+    "supplierTypes": [
+      "FNX",
+      "HCSRA"
+    ],
+    "agencyIds": [
+      "00ec8eb7-a06c-4977-93b6-576c5767c0c2"
+    ],
+    "ruleApplication": "Mandatory",
+    "ruleType": "Discount",
+    "ability": "ENABLED",
+    "order": 0,
+    "compareWithSecondary": true,
+    "expireAt": "2019-03-31T22:00:00Z",
+    "template": false
+  },
+  {
+    "id": "501ec771-f0b7-4313-869b-26f014c5c92c",
+    "created": "2019-03-07T10:04:17.491Z",
+    "creatorAccountId": "ffa98368-8368-4162-8e6e-e260e89b36de",
+    "name": "7656765",
+    "description": "",
+    "supplierTypes": [
+      "MIGDAL",
+      "HCSRA"
+    ],
+    "agencyIds": [
+      "00ec8eb7-a06c-4977-93b6-576c5767c0c2"
+    ],
+    "ruleApplication": "Mandatory",
+    "ruleType": "Discount",
+    "ability": "ENABLED",
+    "order": 0,
+    "compareWithSecondary": true,
+    "expireAt": "2019-03-31T22:00:00Z",
+    "template": false
+  }
+]

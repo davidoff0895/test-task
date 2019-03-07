@@ -1,0 +1,50 @@
+[
+  {
+    "agencyId": "3aa2de38-516a-42eb-aaa2-f7d4408a1fdc",
+    "name": "AGENCY_1",
+    "status": "ACTIVE",
+    "registrationNumber": "1",
+    "address": "",
+    "email": "AGENCY_1@wemaysell.com"
+  },
+  {
+    "agencyId": "590dc77a-cdbb-491e-aae5-0ae7aaad19cb",
+    "name": "AGENCY_2",
+    "status": "ACTIVE",
+    "registrationNumber": "2",
+    "address": "",
+    "email": "AGENCY_2@wemaysell.com"
+  },
+  {
+    "agencyId": "8f4f929a-1836-47f1-bc1e-e9812cc786e4",
+    "name": "AGENCY_3",
+    "status": "ACTIVE",
+    "registrationNumber": "3",
+    "address": "",
+    "email": "AGENCY_3@wemaysell.com"
+  },
+  {
+    "agencyId": "00ec8eb7-a06c-4977-93b6-576c5767c0c2",
+    "name": "AGENCY_4",
+    "status": "ACTIVE",
+    "registrationNumber": "4",
+    "address": "",
+    "email": "AGENCY_4@wemaysell.com"
+  },
+  {
+    "agencyId": "3la5d34a-4dda-98as-cvs7-fj87876sa2s3s",
+    "name": "AGENCY_5",
+    "status": "ACTIVE",
+    "registrationNumber": "5",
+    "address": "",
+    "email": "AGENCY_5@wemaysell.com"
+  },
+  {
+    "agencyId": "c2d23d5e-744b-497d-9a0b-bb00b072b5a6",
+    "name": "AGENCY_6",
+    "status": "ACTIVE",
+    "registrationNumber": "6",
+    "address": "",
+    "email": "AGENCY_6@wemaysell.com"
+  }
+]
